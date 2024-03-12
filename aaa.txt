@@ -1,1 +1,11 @@
-test.txt1
+As an L9 leader, it is crucial to possess a profound understanding of team requirements. Additionally, they should take charge of major activities and investigations, while also demonstrating the ability to automate processes or create/utilize essential tools. Furthermore, the L9 leader must impart the necessary knowledge to the team through effective training
+
+Naveen, who joined xxx as an ‘IS Analyst - Threat Detection -3’ 1.6 years ago, brings 4.5 years of combined experience in both red teaming and blue teaming to the table. His diverse cybersecurity expertise has significantly contributed to the team, making him an outstanding performer.
+
+Naveen led the purple team exercises, documented executed actions and their intents, and prepared a timeline explaining the tester’s activities. He actively worked on IOC hunting tasks, constructing necessary queries related to threats from various sources to trace the presence of the threat and document findings. His excellence in performing these tasks has earned him many awards
+
+Naveen developed multiple Splunk dashboards and various Splunk queries, employing various functions to streamline analyst tasks and save time by consolidating essential information for the alert.
+
+Naveen delivered job-related training and activities to new joiners, ensuring they could successfully identify threats and conduct thorough investigations.
+
+Naveen actively led technical discussions and knowledge transfer sessions, explaining the approach to alert investigation and highlighting new and useful features of tools
