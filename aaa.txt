@@ -23,3 +23,26 @@ Naveen has completed Splunk Fundamentals certifications and his scripting and co
 
 Complexity:
 Naveen’s comprehensive cybersecurity expertise and strong communication and management abilities make him well-suited for an advanced role. His responsibilities will include incident response, root cause analysis, threat mitigation, and shift management to ensure smooth operations. Naveen is indeed well-equipped to lead effectively in this elevated position.
+
+
+
+
+
+-----------------------------
+
+
+
+Naveen consistently manages and assigns tasks within the JSOC queue, while also providing support to teammates. He drives incident resolution through strategic task assignments based on expertise ensuring seamless shift transitions and operational efficiency.
+
+Naveen investigates alerts thoroughly, analyzes the actual root cause, and makes informed decisions regarding alert escalation. He diligently documents all possible impacts and necessary incident response actions in the alert notes. His decision-making aligns with the elevated responsibilities expected at the L9 level.
+
+Naveen investigated a Palo Alto firewall alert and noticed that all traffic was blocked but also delved deeper to uncover excessive scanning activity. His thorough analysis of network packets led to the discovery of a script linked to a remotely hosted shell script capable of compromising the host. By documenting the risks associated with excessive scanning and the potential impact of the remotely hosted script, Naveen made a correct decision to escalate the issue "INC", resulting in the successful blocking of the malicious IP addresses.
+
+Risk Management:
+
+Naveen’s expertise extends to both on-premise and cloud infrastructure, and he possesses a keen awareness of cyber threats and their impact. His ability to understand and manage risks is impressive, aligning well with the elevated responsibilities expected at the L9 level.
+
+Naveen’s approach to risk management is strategic and efficient. By creating dashboards that consolidate data from multiple indexes, he provides a clear view of the risk’s scope, aiding in the identification of affected users and hosts. The ability to drill down into these dashboards for detailed analysis is a valuable tool for any analyst. It streamlines the process of pinpointing and responding to potential security issues. 
+
+
+The current cybersecurity landscape is indeed challenging, with rapid evolution in threat actors and attack vectors, particularly with the increased risks from third-party vendors. This situation necessitates a thorough examination of alert queues and the refinement of incident response playbooks and processes. The L9 role, which involves managing incidents, guiding team members, and executing the right incident response actions, is crucial in this context. Naveen is playing a crucial role, as he excels in directing the team, delegating tasks effectively, and enhancing their understanding of threats to ensure a coordinated and effective response.
