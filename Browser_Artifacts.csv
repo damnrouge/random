@@ -1,0 +1,33 @@
+Browser,Artifact,File Path (Windows)
+Google Chrome,Navigation History,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\History
+,Autocomplete Data,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Web Data
+,Bookmarks,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+,Extensions and Add-ons,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Extensions
+,Cache,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Cache
+,Logins,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Login Data
+,Favicons,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Favicons
+,Browser Sessions,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Sessions
+,Downloads,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Downloads
+,Form Data,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Web Data (autofill data)
+,Thumbnails,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Thumbnails
+,Custom Dictionary,%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Custom Dictionary.txt
+Mozilla Firefox,Navigation History,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\places.sqlite
+,Autocomplete Data,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\formhistory.sqlite
+,Bookmarks,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\bookmarkbackups
+,Extensions and Add-ons,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\addons.json
+,Cache,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\cache2\entries
+,Logins,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\logins.json
+,Favicons,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\favicons.sqlite
+,Browser Sessions,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\recovery.jsonlz4
+,Downloads,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\downloads.sqlite
+,Form Data,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\formhistory.sqlite
+,Thumbnails,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\thumbnails
+,Custom Dictionary,%userprofile%\AppData\Roaming\Mozilla\Firefox\Profiles\&lt;profile_folder&gt;\persdict.dat
+Microsoft Edge,Navigation History,%userprofile%\AppData\Local\Microsoft\Edge\User Data\Default\History
+,Autocomplete Data,%userprofile%\AppData\Local\Microsoft\Edge\User Data\Default\Web Data
+,Bookmarks,%userprofile%\AppData\Local\Microsoft\Edge\User Data\Default\Bookmarks
+,Extensions and Add-ons,%userprofile%\AppData\Local\Microsoft\Edge\User Data\Default\Extensions
+,Cache,%userprofile%\AppData\Local\Microsoft\Edge\User Data\Default\Cache
+,Logins,%userprofile%\AppData\Local\Microsoft\Edge\User Data\Default\Login Data
+,Favicons,%userprofile%\AppData\Local\Microsoft\Edge\User Data\Default\Favicons
+,Browser Sessions,`%userprofile%\AppData\Local\Microsoft\Edge\User
